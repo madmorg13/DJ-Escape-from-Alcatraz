@@ -116,8 +116,18 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
 
 ## Open Questions
 
-- Level 3: what does the orange rectangle do? What do friends do on the boat?
-- Rules: lives, controls, sounds, game name, winning screen (Round 5)
+**Pick up here next session:**
+
+- **Q19:** What does the orange rectangle on the Warden do? (A sign he's angry and faster /
+  a new weak spot / something else)
+- **Q20:** With friends on the boat, who does what? (Take turns on the gun / everyone gets a
+  gun seat / someone drives and dodges)
+- **Q21:** Lives: unlimited tries back to checkpoint, 3 lives then restart the level, or
+  different for each level?
+- **Q22:** Prizes: badges, coins for skins and hats, a secret ending, or nothing?
+- **Q23:** The ending: what happens when you reach San Francisco?
+- **Q24:** The game's name.
+- Then: put the whole plan together and choose what to build first.
 
 ## Build Notes (for Dad)
 

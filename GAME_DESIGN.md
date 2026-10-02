@@ -57,7 +57,14 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
   Friends can steal spoons for each other.
 - **Mission: Make a fake head (art room).** Once a week there's a special art class.
   Steal paper and paint, then make a papier-mâché face to leave in your bed.
-- **Dig:** Use the spoon to dig through the wall behind the air vent in your cell.
+- **Mission: Collect hair (barbershop).** Alcatraz has a barbershop (or everyone's hair
+  would be 6 feet long!). Sweep the floor and collect the hair to put on your fake head.
+- **Dig:** Use the spoon to dig through the wall behind the air vent in your cell, at night
+  while music hour covers the noise.
+- **Night bed check:** Guards check the cells with flashlights. You have to get the fake head
+  into your bed before the check (about 5 minutes) and get into the vents, so the guards are fooled.
+- **Order:** day → cafeteria spoon → art class (paper and paint) → barbershop (hair)
+  → night → fake head in bed → dig → into the vents.
 - **Guards:**
   - **Spotted:** an alarm goes off and guards chase you. You're safe if you get back to your cell.
   - **Caught:** back to your cell, and the level restarts. (No "hole" punishment cell.)
@@ -86,15 +93,30 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
 
 **Goal:** Defeat the boss so the boat can take you back to San Francisco and freedom.
 
-- A police boss flies a giant jet. You shoot it down from a mounted gun seat on the boat.
-- *(Details in Round 4.)*
+- **Getting there:** Climb to the dock and **steal the guards' boat** (a big ship).
+  The dock guards hear it start and press their alarm buttons, which summons the boss.
+- **The boss: The Warden.** A giant warden in knight-style armor, with a shield and a giant sword.
+- **Big health bar** across the top of the screen. He gets angrier as his health drops.
+
+**Phase 1: The Warden's Ship**
+- The Warden flies in on his ship. You sit in a machine-gun chair on the boat, grab
+  the handles and fire.
+- The ship has **6 weak spots**. Hit all 6 and the ship crashes. The Warden jumps down onto your boat.
+- Beating the ship gives you a **pistol with unlimited ammo**.
+
+**Phase 2: The Warden on Your Boat**
+- He has **4 armor pieces** (the weak points). Shoot each one until it breaks off.
+- When all the armor is off, an orange rectangle appears on his body and he can run.
+- Then shoot him in the **face 10 times** to win.
+- **His attacks:**
+  - **Sword slam:** smashes the deck and part of the floor turns to lava for about 5 seconds.
+  - **Sword swipe:** sends out a laser wave you have to dodge.
 
 ---
 
 ## Open Questions
 
-- Level 1: what order do the missions happen in? Day and night?
-- Level 3 details (Round 4)
+- Level 3: what does the orange rectangle do? What do friends do on the boat?
 - Rules: lives, controls, sounds, game name, winning screen (Round 5)
 
 ## Build Notes (for Dad)
@@ -106,6 +128,9 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
 - **Account:** The game should be owned by Dad's own adult Roblox account.
 - **Characters:** Blocky figures built from simple shapes and colors that look like each
   prisoner. We won't put the real photos into the game itself.
+- **Content rating:** There's shooting in Level 3. Keeping it cartoony (no blood, the
+  Warden falls over or explodes into blocks) keeps the game OK for young players
+  on Roblox's maturity rating.
 - **Size check:** Level 1 has the most new systems (guard patrols and vision, chasing, picking
   up and hiding items, crafting, digging). Level 2 uses standard Roblox obby parts, so it's the
   quickest to build. That makes Level 2 a good candidate for Stage 1 of the build.

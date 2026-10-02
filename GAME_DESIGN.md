@@ -23,6 +23,10 @@ You can escape alone or with friends. It runs in a web browser.
 | Heroes | The real 1962 escapees, turned into blocky Roblox-style figures | 1 |
 | Character select | Pick a prisoner; a preview card tells his story | 1 |
 | Players | Solo **or** with friends (multiplayer) | 1 |
+| Multiplayer type | Online: friends play from their own houses | 2 |
+| Co-op setup | Each player starts in a cell next to the others, so they work together (just like the real escape) | 2 |
+| Cell escape | Dig like the real prisoners: spoon, dig behind the air vent, fake head in the bed | 2 |
+| Getting spotted | An alarm goes off and guards chase you. You're safe once you get back to your cell | 2 |
 
 ## The Heroes
 
@@ -52,7 +56,9 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
 
 ## Open Questions
 
-- Multiplayer: friends on the same computer, or friends at their own houses over the internet?
+- **Platform:** website or Roblox? (see Build Notes)
+- Escape room puzzles: dropped, or kept in a smaller way?
+- What happens if a guard *catches* you before you reach your cell?
 - Level 1 details (Round 2)
 - Level 2 details (Round 3)
 - Level 3 details (Round 4)
@@ -61,8 +67,10 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
 ## Build Notes (for Dad)
 
 - **3D in the browser:** doable with Three.js. Harder than 2D, so Stage 1 will start small.
-- **Multiplayer:** The answer to the open question above changes the build a lot.
-  Same-computer multiplayer is much simpler. Online play needs a game server.
-  Plan: build single-player first, but structured so friends can be added later.
+- **Multiplayer:** Dylan chose online play. On a website that needs a game server
+  and is a big job. On Roblox, online multiplayer comes built in.
+- **Platform trade-off:** Roblox gives us free online multiplayer, blocky characters,
+  physics and rope swings, and his friends already have it. The catch is that it's built in
+  Roblox Studio on a Mac or PC. Claude Code would run on that computer, not in a cloud session.
 - **Characters:** Blocky figures built from simple shapes and colors that look like each
   prisoner. We won't put the real photos into the game itself.

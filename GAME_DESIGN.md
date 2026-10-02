@@ -66,11 +66,10 @@ face shape) wearing the Alcatraz prison uniform with their number on it.
 
 ## Build Notes (for Dad)
 
-- **3D in the browser:** doable with Three.js. Harder than 2D, so Stage 1 will start small.
-- **Multiplayer:** Dylan chose online play. On a website that needs a game server
-  and is a big job. On Roblox, online multiplayer comes built in.
-- **Platform trade-off:** Roblox gives us free online multiplayer, blocky characters,
-  physics and rope swings, and his friends already have it. The catch is that it's built in
-  Roblox Studio on a Mac or PC. Claude Code would run on that computer, not in a cloud session.
+- **Platform: Roblox.** Chosen because Dylan wants friends to join from their own houses,
+  and Roblox gives us online multiplayer, blocky characters, physics and ropes for free.
+- **How we'll build:** Roblox Studio + Claude Code both running on Dad's computer
+  (desktop app or terminal), connected so Claude can work inside Studio. Scripts are in Luau.
+- **Account:** The game should be owned by Dad's own adult Roblox account.
 - **Characters:** Blocky figures built from simple shapes and colors that look like each
   prisoner. We won't put the real photos into the game itself.
